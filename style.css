@@ -1,5 +1,5 @@
 .container{
-    margin-bottom: 30px;
+    margin-bottom: 50px;
 }
 .orange-bg{
     background-color: #fceae8;
@@ -22,6 +22,7 @@
 
 .cat1, .cat2, .cat3{
     padding: 10px 30px;
+    border-radius: 10px;
 }
 .cat1{
     background-color: orange;
@@ -34,4 +35,22 @@
 .cat3{
     background-color: lightblue;
     
+}
+.catagories h1{
+    color: #fff;
+}
+.catagories img{
+    width: 100px;
+}
+
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+
+.card-footer{
+    border-top: none;
+    background-color: #fff;
+
 }
