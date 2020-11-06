@@ -23,6 +23,7 @@
 .cat1, .cat2, .cat3{
     padding: 10px 30px;
     border-radius: 10px;
+    margin-bottom: 20px
 }
 .cat1{
     background-color: orange;
@@ -46,7 +47,7 @@
 .card{
     border: none;
     border-radius: 10px;
-    box-shadow: 5px 5px 10px lightgrey;
+    box-shadow: 5px 5px 2px lightgrey;
 }
 
 .card-footer{
